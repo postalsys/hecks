@@ -1,6 +1,6 @@
 {
   "name": "@postalsys/hecks",
-  "version": "3.0.0-fork.2",
+  "version": "3.0.0-fork.3",
   "description": "Mount your express app onto your hapi server, aw heck!",
   "main": "lib/index.js",
   "directories": {
