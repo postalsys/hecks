@@ -1,3 +1,5 @@
+| This is a fork of hapipal/hecks. It changes the peer dependency version for Hapi.
+
 # hecks
 Mount your express app onto your hapi server, aw heck!
 
